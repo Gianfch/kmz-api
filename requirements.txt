@@ -1,7 +1,2 @@
 fastapi
-uvicorn
-openpyxl
-pyproj
-pydantic
-python-multipart
-lxml
+uvicorn[standard]
